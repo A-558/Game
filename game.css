@@ -1,0 +1,30 @@
+body{
+    background-image:url(./Game2.gif) ;
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: 120%;
+}
+.ga{
+   margin-top: 200px;
+   text-align: center;
+}
+input{
+padding-left: 10%;
+   padding-right: 10%;
+   padding-bottom: 15px;
+   padding-top: 15px;
+   font-size: 25px;
+   background:transparent;
+}
+input:hover{
+ 
+   background-color: black;
+  
+   color: white;
+   box-shadow: 0 15px 15px rgba(0, 0, 0, 1);
+   cursor: pointer;
+
+}
+.Game :hover{
+    cursor :wait;
+}
